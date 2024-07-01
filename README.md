@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shivam-kolhi
+- 👋 Hi, I’m @Shivam
 - 👀 I’m interested in ... coding 
 - 🌱 I’m currently learning ...ML
 - 💞️ I’m looking to collaborate on ...
